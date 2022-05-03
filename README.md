@@ -1,10 +1,9 @@
-### Hi I'm Asutosh Rath 👋
+## My name is Asutosh Rath 👋
 
+I am a Data Science Enthusiast, with Skills in Machine Learning and NLP. I have worked on libraries such as Seaborn, Sci-Kit Learn, Tensorflow. I am having skills in Python, C++. 
 
-- 🔭 I am a fresher.
-- 🌱 I’m currently learning Data Science and Machine Learning.
-- 🤔 I’m looking for help with Data Science.
-- 💬 Ask me about Python,Sql and advanced Sql, C++
-- 📫 How to reach me: 
+- 🔭 I’m currently working on Machine Learning Projects.
+- 🌱 I'm currently learning about Deep Learning and Neural Networks.
+-    How to reach me: Linkedin
 - 😄 Pronouns: He/His
 -->
